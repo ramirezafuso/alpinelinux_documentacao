@@ -29,8 +29,9 @@ Na seção para criar um HD virtual, definimos o tamanho para 16GB.
 ## 2° passo: Definições da máquina
 ### **Definições gerais**
 Na primeira vez configurando o alpine, definimos primeiro o layout do teclado para português-brasileiro digitando `br`.
-Após isso, definimos o nome do localhost de `309703` uma matrícula. Seguindo, selecionamos a única interface disponível, a `etho`.
-Para definirmos o endereço de ip, apertamos enter para usar `dhcp`. Também, não selecionamos a configuração manual de internet.
+Após isso, definimos o nome do localhost de `309703` uma matrícula. 
+Seguindo, selecionamos a única interface disponível, a `etho`. Para definirmos o endereço de ip, apertamos enter para usar `dhcp`, no IPv4 selecionamos `dhcp` e no IPv6 `auto`.
+Também, não selecionamos a configuração manual de internet.
 <img width="945" height="249" alt="image (4)" src="https://github.com/user-attachments/assets/740e6f0b-80e9-4e26-b691-1790bd96e4ac" />
 <img width="719" height="63" alt="hostname" src="https://github.com/user-attachments/assets/e72b8e63-4cf2-461f-840d-5cbdfd851bf8" />
 <img width="558" height="210" alt="image (5)" src="https://github.com/user-attachments/assets/16fd9578-e87d-4830-b854-c141f4d6d23b" />
